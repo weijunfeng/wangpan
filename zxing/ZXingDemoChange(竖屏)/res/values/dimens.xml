@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 二维码扫描边框 -->
+    <dimen name="rect_width">24dp</dimen>
+    <dimen name="rect_height">5dp</dimen>
+
+</resources>

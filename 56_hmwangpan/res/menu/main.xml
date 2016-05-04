@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_upload"
+        android:icon="@drawable/icon_upload"
+        android:showAsAction="always"
+        android:title="上传"/>
+    <item
+        android:id="@+id/action_download"
+        android:icon="@drawable/icon_download"
+        android:showAsAction="always"
+        android:title="下载"/>
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/icon_action_home_category"
+        android:showAsAction="always"
+        android:title="更多">
+        <menu>
+            <item
+                android:id="@+id/action_createfolder"
+                android:showAsAction="never"
+                android:title="新建文件夹"/>
+            <item
+                android:id="@+id/action_uploadfile"
+                android:showAsAction="never"
+                android:title="上传"/>
+            <item
+                android:id="@+id/action_logout"
+                android:showAsAction="never"
+                android:title="注销"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_select"
+        android:showAsAction="always"
+        android:title="全选"
+        android:visible="false"/>
+
+</menu>

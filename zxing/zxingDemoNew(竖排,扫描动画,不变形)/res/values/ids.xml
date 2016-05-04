@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+
+    <!-- Messages IDs -->
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="container" type="id"/>
+    <item name="tab_layout" type="id"/>
+    <item name="main_tab_decoding_button" type="id"/>
+    <item name="main_tab_generation_button" type="id"/>
+    <item name="main_tab_individual_button" type="id"/>
+    <item name="main_tab_history_button" type="id"/>
+    <item name="main_tab_more_button" type="id"/>
+    <item name="main_tab" type="id"/>
+    <item name="main_radio" type="id">false</item>
+    <item name="radio_button0" type="id">false</item>
+    <item name="radio_button1" type="id">false</item>
+    <item name="radio_button2" type="id">false</item>
+    <item name="radio_button3" type="id">false</item>
+    <item name="radio_button4" type="id">false</item>
+    <item name="relativeLayout1" type="id">false</item>
+    <item name="relativeLayout2" type="id">false</item>
+    <item name="linearLayout3" type="id">false</item>
+    <item name="sms_name" type="id">false</item>
+    <item name="phone_scan" type="id">false</item>
+    <item name="feng_version_num" type="id">false</item>
+    <item name="sms_name_num" type="id">false</item>
+    <item name="sms_content" type="id">false</item>
+    <item name="sms_content_name" type="id">false</item>
+    <item name="weibo_content_name" type="id">false</item>
+    <item name="weibo_content" type="id">false</item>
+    <item name="qq_content_name" type="id">false</item>
+    <item type="id" name="qq_content">false</item>
+
+</resources>
